@@ -11,4 +11,4 @@ However, when there are many categories it becomes too cluttered and the differe
 
 In this case, a better alternative is to use a bubble chart. The bubble size adds a dimension and helps to show the differences in magnitude.
 
-![Grouped Bar Chart vs. Bubble Chart](https://github.com/aleivaar94/Crop_Production/blob/main/assets/this_or_that.gif)
+<img src="https://github.com/aleivaar94/Crop_Production/blob/main/assets/this_or_that.gif" alt="Grouped Bar Chart vs. Bubble Chart" width="600" height="400">
