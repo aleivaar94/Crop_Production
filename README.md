@@ -25,7 +25,7 @@ In the original bubble chart, this reversal doesn’t create a lot of cognitive 
 
 So in this case, let’s use red for higher values along with the size of the bubble to reduce the cognitive friction and make your plot much faster to understand.
 
-<img src="https://github.com/aleivaar94/Crop_Production/blob/main/assets/On the use of color - Part 1.png" width="700" height="600">
+<img src="https://github.com/aleivaar94/Crop_Production/blob/main/assets/On the use of color - Part 1.png" width="700" height="900">
 
 
 ## Sequential or Diverging color scales?
@@ -36,4 +36,4 @@ A diverging color scale uses two different sequential color scales that extend f
 
 In the bubble chart below, a sequential color scale makes the low values hard to read (highlighted inside the square box). In this data, the values don’t have a natural midpoint, but a diverging scale makes these values much easier to read and understand.
 
-<img src="https://github.com/aleivaar94/Crop_Production/blob/main/assets/On the use of color - Part 2.png" width="700" height="600">
+<img src="https://github.com/aleivaar94/Crop_Production/blob/main/assets/On the use of color - Part 2.png" width="700" height="900">
